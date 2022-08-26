@@ -1,2 +1,2 @@
-import SpY
-SpY.login_lagi334()
+import SpY32
+SpY32.login_lagi334()
